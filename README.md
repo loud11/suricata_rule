@@ -1,7 +1,8 @@
 # suricata_rule
 suricata rule that detect harmful website
 
-#which can't block
+# which can not block
+
 https://graphgame.net/
 
 https://mujige53770.wixsite.com
